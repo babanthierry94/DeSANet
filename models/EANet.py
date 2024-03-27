@@ -1,4 +1,4 @@
-from models.Attention_modules import ExternalAttention
+from Attention_modules import ExternalAttention
 
 ######################################################################################################
 #                                                                                                    #
