@@ -1,3 +1,4 @@
+import tensorflow as tf
 from Attention_modules import ExternalAttention
 
 ######################################################################################################
