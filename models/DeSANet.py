@@ -1,3 +1,4 @@
+import tensorflow as tf
 
 class SelfAttentionLayer(tf.keras.layers.Layer):
     def __init__(self, in_dim):
